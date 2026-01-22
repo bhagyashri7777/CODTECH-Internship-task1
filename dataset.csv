@@ -1,0 +1,5 @@
+age,income,city,purchased
+25,50000,Mumbai,Yes
+30,60000,Pune,No
+35,,Delhi,Yes
+40,80000,Mumbai,No
